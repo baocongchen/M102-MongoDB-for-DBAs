@@ -15,7 +15,7 @@ An online course for database administrators
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-        <table class="table table-striped">
+        <table>
           <thead>
             <tr>
               <th>Units</th>
