@@ -9,5 +9,5 @@ An online course for database administrators
 | Chapter 4: Replication - Replication, Failover, Recovery| Jan 31, 2017 17:00 UTC | Feb 07, 2017 17:00 UTC | 2 hrs | 3 hrs |
 | Chapter 5: Replication Part 2 - Optimizing and monitoring your Replica Sets | Feb 07, 2017 17:00 UTC | Feb 14, 2017 17:00 UTC | 2 hrs | 3 hrs | 
 | Chapter 6: Scalability - Sharding setup, sharding monitoring, shard key selection, inserting large amounts of data | Feb 14, 2017 17:00 UTC | Feb 21, 2017 17:00 UTC | 2 hrs | 3 hrs |
-| Chapter 7: Backup and Recovery - Security, backups and restoring for backups | Feb 21, 2017 17:00 UTC | 2 hrs | 0 hrs |
+| Chapter 7: Backup and Recovery - Security, backups and restoring for backups | Feb 21, 2017 17:00 UTC | NA | 2 hrs | 0 hrs |
 | Final Exam |	Feb 21, 2017 17:00 UTC | Feb 28, 2017 17:00 UTC | 0 hrs | 0 hrs |
