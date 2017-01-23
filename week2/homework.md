@@ -49,7 +49,7 @@ Add a new product to the products collection of this form:
     "warranty_years" : 0.25,
     "available" : true
 }
-<pre>
+</pre>
 
 Note: in general because of the automatic line continuation in the shell, you can cut/paste in the above and shouldn't have to type it all out. Just enclose it in the proper statement(s) to get it added.
 
